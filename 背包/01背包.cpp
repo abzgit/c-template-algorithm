@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 const int len = 1000;
 int v[len], w[len];
 int f[len];

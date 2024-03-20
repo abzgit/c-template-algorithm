@@ -1,3 +1,7 @@
+#include<bits/stdc++.h>
+using namespace std;
+int p[100];
+int n;
 void work(int a[])
 {
     for (int i = 1; i <= n; i ++ ) p[i] = i;

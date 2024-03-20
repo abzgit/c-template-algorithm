@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 class uset {
 public:
 	int par;		//父节点
